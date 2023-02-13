@@ -1,8 +1,8 @@
 ## knawd
 
-This is a collection of projects dedicated to building knative functions with WasmEdge.
+This is a collection of projects dedicated to building knative functions with WASM.
 
-To get going you probably want to start with the [documentation]() which has getting started as well as larger tutorials.
+To get going you probably want to start with the [documentation](https://knawd.dev) which has getting started as well as larger tutorials.
 
 <!--
 
